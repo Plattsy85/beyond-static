@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <logo />
+      <!-- <logo />
       <h1 class="title">
         beyond-static
       </h1>
@@ -22,7 +22,10 @@
           class="button--grey"
         >
           GitHub
-        </a>
+        </a> -->
+
+        <h1>Contact us</h1>
+
       </div>
     </div>
   </div>
