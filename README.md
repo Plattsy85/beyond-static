@@ -1,2 +1,2 @@
 # beyond-static
-Playground for Nuxt and Netlify 
+Playground for Nuxt and Netlify - testing commit
