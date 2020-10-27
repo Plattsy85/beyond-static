@@ -1,6 +1,8 @@
 <template>
   <div class="container">
     <div>
+        <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> 
+
       <!-- <logo />
       <h1 class="title">
         beyond-static
@@ -24,7 +26,7 @@
           GitHub
         </a> -->
 
-        <h1>Contact us</h1>
+        <!-- <h1>Contact us</h1>
 
         <form name="contacttest" netlify>
           <p>
@@ -39,7 +41,9 @@
           <p>
             <button type="submit">Send</button>
           </p>
-        </form>
+        </form> -->
+          <div data-netlify-identity-menu></div>
+          <div data-netlify-identity-button>Login with Netlify Identity</div>
 
       </div>
     </div>
